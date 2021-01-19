@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798019233080",
+    "firebase_url": "https://kbelo-35be1.firebaseio.com",
+    "project_id": "kbelo-35be1",
+    "storage_bucket": "kbelo-35be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798019233080:android:2dd35f43dc1889e52bcdcd",
+        "android_client_info": {
+          "package_name": "com.example.kbelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798019233080-tuk4meqe5qssigneka1unb1qho7034ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjVHa8BKDHrS-JnE7NGaVfIMus4-bCdpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798019233080-tuk4meqe5qssigneka1unb1qho7034ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
